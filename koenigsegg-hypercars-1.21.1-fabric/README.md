@@ -10,7 +10,7 @@ Author: Demon_King106
   - **Koenigsegg Regera** (2-Seat KDD Direct Drive Hybrid, 1,500 HP)
   - **Koenigsegg CC850** (2-Seat Engage Shift System Gated Manual, 1,385 HP)
   - **Koenigsegg One:1** (2-Seat 1:1 Track Megacar, 1,360 HP)
-- **Textures (512x512 PNG)** & **Engine Audio (WAV)**:
+- **Textures (256x256 PNG)** & **Engine Audio (WAV)**:
   - 9 Multi-Stage Finishes, 9 Quilted Leather Interiors, 2x2 & Forged Carbon, Alcantara, Titanium & Brake Rotors
   - Distinct V8 roar, turbo flutter, KDD & Dark Matter electric spool
 

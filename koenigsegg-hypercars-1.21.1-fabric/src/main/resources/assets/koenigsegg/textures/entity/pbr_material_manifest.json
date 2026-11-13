@@ -1,6 +1,6 @@
 {
   "format": "LabPBR_1.3",
-  "resolution": "512x512",
+  "resolution": "256x256",
   "materials": {
     "carbon_fiber_twill": {
       "albedo": "koenigsegg:textures/entity/shared/carbon_fiber_albedo.png",
