@@ -21,7 +21,7 @@
     "subtitle": "subtitles.koenigsegg.ignition",
     "sounds": [
       {
-        "name": "koenigsegg:entity/jesko/ignition"
+        "name": "koenigsegg:entity/shared/ignition"
       }
     ]
   },
@@ -47,7 +47,7 @@
     "subtitle": "subtitles.koenigsegg.ignition",
     "sounds": [
       {
-        "name": "koenigsegg:entity/gemera/ignition"
+        "name": "koenigsegg:entity/shared/ignition"
       }
     ]
   },
@@ -73,7 +73,7 @@
     "subtitle": "subtitles.koenigsegg.ignition",
     "sounds": [
       {
-        "name": "koenigsegg:entity/agera_rs/ignition"
+        "name": "koenigsegg:entity/shared/ignition"
       }
     ]
   },
@@ -99,7 +99,7 @@
     "subtitle": "subtitles.koenigsegg.ignition",
     "sounds": [
       {
-        "name": "koenigsegg:entity/regera/ignition"
+        "name": "koenigsegg:entity/shared/ignition"
       }
     ]
   },
@@ -125,7 +125,7 @@
     "subtitle": "subtitles.koenigsegg.ignition",
     "sounds": [
       {
-        "name": "koenigsegg:entity/cc850/ignition"
+        "name": "koenigsegg:entity/shared/ignition"
       }
     ]
   },
@@ -151,7 +151,7 @@
     "subtitle": "subtitles.koenigsegg.ignition",
     "sounds": [
       {
-        "name": "koenigsegg:entity/one_1/ignition"
+        "name": "koenigsegg:entity/shared/ignition"
       }
     ]
   }

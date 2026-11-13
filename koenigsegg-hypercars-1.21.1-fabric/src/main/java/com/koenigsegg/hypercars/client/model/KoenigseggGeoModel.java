@@ -12,7 +12,6 @@ public class KoenigseggGeoModel extends GeoModel<KoenigseggEntity> {
 
     @Override
     public ResourceLocation getTextureResource(KoenigseggEntity entity) {
-        String name = entity.getCarModel().id;
         String finish;
         switch (entity.getPaintVariant()) {
             case 1: finish = "imperial_blue"; break;
@@ -25,7 +24,7 @@ public class KoenigseggGeoModel extends GeoModel<KoenigseggEntity> {
             case 8: finish = "obsidian_red"; break;
             default: finish = "tang_orange"; break;
         }
-        return ResourceLocation.fromNamespaceAndPath("koenigsegg", "textures/entity/" + name + "_" + finish + ".png");
+        return ResourceLocation.fromNamespaceAndPath("koenigsegg", "textures/entity/finishes/" + finish + "_albedo.png");
     }
 
     @Override

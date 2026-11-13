@@ -16,14 +16,10 @@
       "composition": "chopped_tow_marbled_composite"
     },
     "perforated_alcantara": {
-      "albedo": "koenigsegg:textures/entity/shared/alcantara_suede_albedo.png",
-      "normal": "koenigsegg:textures/entity/shared/alcantara_suede_n.png",
-      "specular": "koenigsegg:textures/entity/shared/alcantara_suede_s.png"
+      "albedo": "koenigsegg:textures/entity/shared/alcantara_suede_albedo.png"
     },
     "brushed_heat_titanium": {
-      "albedo": "koenigsegg:textures/entity/shared/brushed_titanium_albedo.png",
-      "normal": "koenigsegg:textures/entity/shared/brushed_titanium_n.png",
-      "specular": "koenigsegg:textures/entity/shared/brushed_titanium_s.png"
+      "albedo": "koenigsegg:textures/entity/shared/brushed_titanium_albedo.png"
     },
     "cup2r_tire_tread": {
       "albedo": "koenigsegg:textures/entity/shared/tire_tread_albedo.png",
@@ -38,6 +34,7 @@
       ],
       "normal": "koenigsegg:textures/entity/finishes/paint_clearcoat_n.png",
       "specular": "koenigsegg:textures/entity/finishes/paint_clearcoat_s.png",
+      "glowmask_layer": "AutoGlowingGeoLayer (*_albedo_glowmask.png)",
       "clearcoat_ior": 1.54,
       "variants": [
         "tang_orange",
