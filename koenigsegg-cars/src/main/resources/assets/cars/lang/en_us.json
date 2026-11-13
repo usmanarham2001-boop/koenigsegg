@@ -1,0 +1,15 @@
+{
+  "entity.cars.jesko": "Koenigsegg Jesko",
+  "entity.cars.regera": "Koenigsegg Regera",
+  "entity.cars.gemera": "Koenigsegg Gemera",
+  "entity.cars.cc850": "Koenigsegg CC850",
+  "item.cars.jesko_spawn_egg": "Jesko Spawn Egg",
+  "item.cars.regera_spawn_egg": "Regera Spawn Egg",
+  "item.cars.gemera_spawn_egg": "Gemera Spawn Egg",
+  "item.cars.cc850_spawn_egg": "CC850 Spawn Egg",
+  "key.cars.customize": "Customize car",
+  "key.cars.horn": "Car horn",
+  "category.cars": "Koenigsegg Cars",
+  "subtitles.cars.engine": "Car engine",
+  "subtitles.cars.horn": "Car horn"
+}
