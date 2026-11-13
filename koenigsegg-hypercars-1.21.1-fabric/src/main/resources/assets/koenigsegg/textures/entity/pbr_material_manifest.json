@@ -1,0 +1,70 @@
+{
+  "format": "LabPBR_1.3",
+  "resolution": "512x512",
+  "materials": {
+    "carbon_fiber_twill": {
+      "albedo": "koenigsegg:textures/entity/shared/carbon_fiber_albedo.png",
+      "normal": "koenigsegg:textures/entity/shared/carbon_fiber_n.png",
+      "specular": "koenigsegg:textures/entity/shared/carbon_fiber_s.png",
+      "weave": "2x2_twill_diagonal",
+      "clearcoat": 0.92
+    },
+    "forged_chopped_carbon": {
+      "albedo": "koenigsegg:textures/entity/shared/forged_carbon_albedo.png",
+      "normal": "koenigsegg:textures/entity/shared/forged_carbon_n.png",
+      "specular": "koenigsegg:textures/entity/shared/forged_carbon_s.png",
+      "composition": "chopped_tow_marbled_composite"
+    },
+    "perforated_alcantara": {
+      "albedo": "koenigsegg:textures/entity/shared/alcantara_suede_albedo.png",
+      "normal": "koenigsegg:textures/entity/shared/alcantara_suede_n.png",
+      "specular": "koenigsegg:textures/entity/shared/alcantara_suede_s.png"
+    },
+    "brushed_heat_titanium": {
+      "albedo": "koenigsegg:textures/entity/shared/brushed_titanium_albedo.png",
+      "normal": "koenigsegg:textures/entity/shared/brushed_titanium_n.png",
+      "specular": "koenigsegg:textures/entity/shared/brushed_titanium_s.png"
+    },
+    "cup2r_tire_tread": {
+      "albedo": "koenigsegg:textures/entity/shared/tire_tread_albedo.png",
+      "normal": "koenigsegg:textures/entity/shared/tire_tread_n.png",
+      "specular": "koenigsegg:textures/entity/shared/tire_tread_s.png"
+    },
+    "multi_stage_paint": {
+      "stages": [
+        "pigment_basecoat",
+        "metallic_microflake",
+        "tinted_carbon_or_satin_clearcoat"
+      ],
+      "normal": "koenigsegg:textures/entity/finishes/paint_clearcoat_n.png",
+      "specular": "koenigsegg:textures/entity/finishes/paint_clearcoat_s.png",
+      "clearcoat_ior": 1.54,
+      "variants": [
+        "tang_orange",
+        "imperial_blue",
+        "raw_carbon",
+        "crystal_white",
+        "emerald_carbon",
+        "battleship_grey",
+        "liquid_silver",
+        "swiss_gold",
+        "obsidian_red"
+      ]
+    },
+    "quilted_leather_interior": {
+      "pattern": "diamond_stitched",
+      "normal": "koenigsegg:textures/entity/interiors/quilted_leather_n.png",
+      "variants": [
+        "tang_orange_quilted_leather",
+        "imperial_blue_quilted_leather",
+        "raw_carbon_quilted_leather",
+        "crystal_white_quilted_leather",
+        "emerald_carbon_quilted_leather",
+        "battleship_grey_quilted_leather",
+        "liquid_silver_quilted_leather",
+        "swiss_gold_quilted_leather",
+        "obsidian_red_quilted_leather"
+      ]
+    }
+  }
+}

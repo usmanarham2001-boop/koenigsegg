@@ -1,0 +1,158 @@
+{
+  "entity.jesko.engine_loop": {
+    "subtitle": "subtitles.koenigsegg.jesko_engine",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/jesko/engine_loop",
+        "stream": true
+      }
+    ]
+  },
+  "entity.jesko.turbo_flutter": {
+    "subtitle": "subtitles.koenigsegg.turbo_flutter",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/jesko/turbo_flutter",
+        "pitch": 1
+      }
+    ]
+  },
+  "entity.jesko.ignition": {
+    "subtitle": "subtitles.koenigsegg.ignition",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/jesko/ignition"
+      }
+    ]
+  },
+  "entity.gemera.engine_loop": {
+    "subtitle": "subtitles.koenigsegg.gemera_engine",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/gemera/engine_loop",
+        "stream": true
+      }
+    ]
+  },
+  "entity.gemera.electric_spool": {
+    "subtitle": "subtitles.koenigsegg.electric_spool",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/gemera/electric_spool",
+        "pitch": 1
+      }
+    ]
+  },
+  "entity.gemera.ignition": {
+    "subtitle": "subtitles.koenigsegg.ignition",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/gemera/ignition"
+      }
+    ]
+  },
+  "entity.agera_rs.engine_loop": {
+    "subtitle": "subtitles.koenigsegg.agera_rs_engine",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/agera_rs/engine_loop",
+        "stream": true
+      }
+    ]
+  },
+  "entity.agera_rs.turbo_flutter": {
+    "subtitle": "subtitles.koenigsegg.turbo_flutter",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/agera_rs/turbo_flutter",
+        "pitch": 1
+      }
+    ]
+  },
+  "entity.agera_rs.ignition": {
+    "subtitle": "subtitles.koenigsegg.ignition",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/agera_rs/ignition"
+      }
+    ]
+  },
+  "entity.regera.engine_loop": {
+    "subtitle": "subtitles.koenigsegg.regera_engine",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/regera/engine_loop",
+        "stream": true
+      }
+    ]
+  },
+  "entity.regera.electric_spool": {
+    "subtitle": "subtitles.koenigsegg.electric_spool",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/regera/electric_spool",
+        "pitch": 1
+      }
+    ]
+  },
+  "entity.regera.ignition": {
+    "subtitle": "subtitles.koenigsegg.ignition",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/regera/ignition"
+      }
+    ]
+  },
+  "entity.cc850.engine_loop": {
+    "subtitle": "subtitles.koenigsegg.cc850_engine",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/cc850/engine_loop",
+        "stream": true
+      }
+    ]
+  },
+  "entity.cc850.turbo_flutter": {
+    "subtitle": "subtitles.koenigsegg.turbo_flutter",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/cc850/turbo_flutter",
+        "pitch": 1
+      }
+    ]
+  },
+  "entity.cc850.ignition": {
+    "subtitle": "subtitles.koenigsegg.ignition",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/cc850/ignition"
+      }
+    ]
+  },
+  "entity.one_1.engine_loop": {
+    "subtitle": "subtitles.koenigsegg.one_1_engine",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/one_1/engine_loop",
+        "stream": true
+      }
+    ]
+  },
+  "entity.one_1.turbo_flutter": {
+    "subtitle": "subtitles.koenigsegg.turbo_flutter",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/one_1/turbo_flutter",
+        "pitch": 1
+      }
+    ]
+  },
+  "entity.one_1.ignition": {
+    "subtitle": "subtitles.koenigsegg.ignition",
+    "sounds": [
+      {
+        "name": "koenigsegg:entity/one_1/ignition"
+      }
+    ]
+  }
+}
