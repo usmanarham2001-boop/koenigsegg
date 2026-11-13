@@ -1,4 +1,0 @@
-{
-  "engine": { "sounds": [ { "name": "cars:engine_loop", "stream": false } ], "subtitle": "subtitles.cars.engine" },
-  "horn":   { "sounds": [ "cars:horn" ], "subtitle": "subtitles.cars.horn" }
-}
